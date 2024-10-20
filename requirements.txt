@@ -3,3 +3,5 @@
 pip install svc
 
 pip install sci-py
+
+pip install learn
